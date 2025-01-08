@@ -1,4 +1,4 @@
-# STEM-AI-Ideas
+# STEM-AI-Ideas (THIS IS A DUMMY README FILE CREATED CHATGPT)
 Ideas for STEM AI use
 
 
